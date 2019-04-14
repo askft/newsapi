@@ -10,3 +10,10 @@
 
 # Output of the go coverage tool, specifically when used with LiteIDE
 *.out
+
+# OS X
+.DS_Store
+
+# Local
+keys.env
+

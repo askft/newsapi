@@ -1,2 +1,7 @@
-# go-newsapi
-A Go client for NewsAPI.
+# Introduction
+
+This is a Go client for NewsAPI.
+
+# Usage
+
+To do...
